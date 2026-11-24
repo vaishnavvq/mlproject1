@@ -158,6 +158,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+mlp1-env/
 
 # Conda environments
 conda-meta/
